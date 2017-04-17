@@ -1,13 +1,10 @@
 ---
+title: "About"
+layout: page
 permalink: /about/
-title: "Handbook"
-layout: single
-excerpt: "An employee handbook for the selfemployed freelance."
-#layouts_gallery:
-#  - url: /assets/images/mm-layout-splash.png
-#    image_path: /assets/images/mm-layout-splash.png
-#    alt: "splash layout example"
-modified: 2017-02-24T16:28:13-05:00
+excerpt: "An employee handbook for the self employed freelance."
+updated: 2017-02-24T16:28:13-05:00
+comments: false
 ---
 ### The Gist:
 
