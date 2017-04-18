@@ -43,5 +43,7 @@ jspm_packages
 # Development ENV variables
 .env
 
+public
+
 # Ignoring gh-pages branch
 _site/
